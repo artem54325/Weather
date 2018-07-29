@@ -1,4 +1,4 @@
-# Weather
+# Погода
 
 C использованием паттернов:
 Factory, Decorator, Observer, Strategy
