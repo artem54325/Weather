@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="select_city">Select city</string>
+    <string name="select_season_of_year">Select the season of the year</string>
+    <string name="type_of_city">Type of city:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="two_activity_but">2 activity</string>
+    <string name="but_save">Save</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Погода</string>
+    <string name="select_city">Выберите город</string>
+    <string name="select_season_of_year">Выберите сезон года</string>
+    <string name="type_of_city">Тип города:</string>
+    <string name="temperature">Температура:</string>
+    <string name="two_activity_but">2 окно</string>
+    <string name="but_save">Сохранить</string>
+</resources>
